@@ -16,7 +16,7 @@ The number is odd
 
 number =10
  if number%2==0:
-     print('The number is evan.')
+     print('The number is even.')
  else:
     print('The number is odd.')
 # Output:
@@ -25,9 +25,9 @@ The number is even.
 # Task 2: Sum of Integers from 1 to 50 Using a Loop
 #sum of integers from 1to 50 using loop
 total=0
-for i in range(1,50):
+for i in range(1,51):
 total+ = i
-print("sum from 1 to 50 is :",total)
+print("sum from 1 to 51 is :",total)
 
 # Output
-sum from 1 to 50 is : 1275
+sum from 1 to 51 is : 1275
